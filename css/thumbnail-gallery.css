@@ -1,0 +1,55 @@
+/*!
+ * Start Bootstrap - Thumbnail Gallery (http://startbootstrap.com/template-overviews/thumbnail-gallery)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-thumbnail-gallery/blob/master/LICENSE)
+ */
+
+body {
+    background-color: gold;
+    padding-top: 135px;
+  
+}
+
+h1 {
+    font-size: 60px;
+}
+
+}
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.titlew {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+body{
+	 background-color: #000000;
+   margin: 0px;
+ }
+
+.thumbnail img{
+    max-height: 150px;
+}
+
+.thumbnail:hover {
+    position:relative;
+    top:-15px;
+    left:-15px;
+    width:400px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+.bodyclass{
+    background-color: gold;
+}
+
+
+
+
